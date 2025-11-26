@@ -22,22 +22,13 @@ I'm building SciBowl.org to address long-standing gaps in the Science Bowl commu
   Short answer, multiple choice, and multi-select with clean UI and immediate feedback.
 
 - **Real-Time Buzzing System**  
-  Concurrency-safe scrimmaging — no websockets required.
-
-- **Tournament Infrastructure**  
-  Brackets, scorekeeping, timing tools, packet randomizers, and coach dashboards.
+  Concurrency-safe scrimmaging.
 
 - **Player Analytics & Insights**  
   Accuracy by category, speed distributions, long-term improvement tracking.
 
 - **Coach Tools**  
   Rosters, custom practice sets, usage analytics.
-
-**Future goals include:**
-- Invitational hosting  
-- Automatic packet generation  
-- ELO-style player ratings  
-- LLM-powered question explanations and tutoring  
 
 *(Fully bootstrapped. Hoping to turn this into a long-term edtech platform.)*
 
