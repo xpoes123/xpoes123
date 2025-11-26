@@ -36,8 +36,7 @@ I'm building SciBowl.org to address long-standing gaps in the Science Bowl commu
 ## 🌱 What I’m Learning Now
 - Advanced TypeScript + React patterns for scalable frontends  
 - Django & PostgreSQL optimization  
-- Vector search and ML-driven recommendation systems  
-- Multi-app clean architecture for large platforms  
+- Methods in sports simulations
 
 ---
 
@@ -46,14 +45,6 @@ I'm building SciBowl.org to address long-standing gaps in the Science Bowl commu
 - **Sonder** — (Deprecated) ML-based dating-profile generator for songs using clustering + Spotify audio features  
 - **DayTour** — Travel itinerary builder using Google Maps API + traveling salesman heuristics  
 - **Stavid** — A Discord bot for apartment life: ledgering, restaurant recommendations, reminders, utilities  
-
----
-
-## 👯 I’m Looking to Collaborate On
-- Science Bowl training resources  
-- Open education tools  
-- ML-powered recommendation engines  
-- Real-time multiplayer systems  
 
 ---
 
