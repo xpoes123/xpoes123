@@ -1,84 +1,80 @@
-## Hi there 👋 I'm David (luckypro)
+## Hi there 👋 I'm David Jiang
 
-I'm a software engineer passionate about **machine learning**, **data-driven systems**, and building tools that help real communities.  
-Right now, my main focus is creating the next major platform for **National Science Bowl** students, teams, and coaches.
+I’m a Software Engineer on the **Integrations team at Uncountable**, a YC-backed startup that builds a unified data platform for **R&D organizations** — chemists, materials scientists, formulation teams, and process engineers.  
+
+I recently graduated (May 2025) from the **University of Wisconsin–Madison** with a degree in **Math and Computer Science**, after spending several years pursuing chemistry and biochemistry. 
+
+Some of my favorite courses were *Arithmetic Algorithms, Programming Languages, Fractal Geometry,* and *Integer Partitions*.
 
 ---
 
-### 🔭 What I’m Currently Working On
-### **🧪 SciBowl.org — A full Science Bowl training & competition platform**
-A modern, web-based ecosystem designed for students, coaches, and tournament organizers.  
-I'm building SciBowl.org to solve long-standing problems in the Science Bowl community:
+## 🔭 What I’m Currently Building
+
+### 🧪 **SciBowl.org — A full Science Bowl training & competition platform**
+
+A modern, web-based ecosystem designed for **students, coaches, and tournament organizers**.  
+I'm building SciBowl.org to address long-standing gaps in the Science Bowl community:
 
 - **Massive Question Database**  
-  PDF → parsed + cleaned + searchable question bank with filters, difficulty tagging, and category metadata.
+  PDF → parsed → normalized → searchable, with category tags and difficulty metadata.
 
-- **Practice Mode for Teams & Individuals**  
-  Short answer, multiple choice, multi-select modes — all synchronized with clean UI and instant feedback.
+- **Team & Individual Practice Modes**  
+  Short answer, multiple choice, and multi-select with clean UI and immediate feedback.
 
 - **Real-Time Buzzing System**  
-  Websocket-free, concurrency-safe buzzing for scrimmages and online practices.
+  Concurrency-safe scrimmaging — no websockets required.
 
-- **Tournament Tools**  
-  Bracket manager, scorekeeping tools, packet randomizer, and analytics dashboards for coaches.
+- **Tournament Infrastructure**  
+  Brackets, scorekeeping, timing tools, packet randomizers, and coach dashboards.
 
 - **Player Analytics & Insights**  
-  Stats tracking, accuracy by category, response time histograms, and personalized training recommendations.
+  Accuracy by category, speed distributions, long-term improvement tracking.
 
-- **Coach Dashboard**  
-  Manage rosters, assign custom practice sets, track improvement over time.
+- **Coach Tools**  
+  Rosters, custom practice sets, usage analytics.
 
-I want SciBowl.org to eventually support:
+**Future goals include:**
 - Invitational hosting  
 - Automatic packet generation  
 - ELO-style player ratings  
-- LLM-powered question explanation + tutoring
+- LLM-powered question explanations and tutoring  
 
-*(This project is fully bootstrapped and I’m building it with long-term edtech potential in mind.)*
-
----
-
-### 🌱 What I’m Currently Learning
-- Deeper TypeScript + React patterns for large-scale frontends  
-- Advanced Django + PostgreSQL optimization  
-- Vector search + ML recommendation systems  
-- Clean architecture for multi-app platforms
+*(Fully bootstrapped. Hoping to turn this into a long-term edtech platform.)*
 
 ---
 
-### 💼 Past / Other Projects
-- **Sonder** — A now-deprecated ML-based dating-profile generator for songs using clustering + Spotify API.  
-- **MarketBrain** — Sports prediction + analytics system with simulated markets.  
-- **Catan Simulator, NBA tools, travel itinerary apps**, and many more experiments.
+## 🌱 What I’m Learning Now
+- Advanced TypeScript + React patterns for scalable frontends  
+- Django & PostgreSQL optimization  
+- Vector search and ML-driven recommendation systems  
+- Multi-app clean architecture for large platforms  
 
 ---
 
-### 👯 I’m Looking to Collaborate On
-- Science Bowl resources  
+## 💼 Past / Other Projects
+
+- **Sonder** — (Deprecated) ML-based dating-profile generator for songs using clustering + Spotify audio features  
+- **DayTour** — Travel itinerary builder using Google Maps API + traveling salesman heuristics  
+- **Stavid** — A Discord bot for apartment life: ledgering, restaurant recommendations, reminders, utilities  
+
+---
+
+## 👯 I’m Looking to Collaborate On
+- Science Bowl training resources  
 - Open education tools  
 - ML-powered recommendation engines  
-- Real-time multiplayer systems (scrimmage tools, collaborative apps)
+- Real-time multiplayer systems  
 
 ---
 
-### 💬 Ask Me About
-- Django, FastAPI, Python data engineering  
-- TypeScript + React  
-- ML for real-world product features  
-- Building side projects that actually ship  
-- Science Bowl strategy 😉
+## 💬 Ask Me About
+- Django, FastAPI, Python tricks, React
+- Chess, poker, Rubik’s cubes, buzzing games, competition math, sports analytics, GeoGuessr
 
 ---
 
-### 📫 How to Reach Me
+## 📫 How to Reach Me
 **GitHub:** [@xpoes123](https://github.com/xpoes123)  
-**Email:** (ask if you want it added)  
+**Discord:** `xpoes`
 
 ---
-
-### ⚡ Fun fact
-I competed heavily in Science Bowl and now want to give back by building tools I wish existed when I was a student.
-
----
-
-*Thanks for stopping by! Feel free to explore my repos — especially SciBowl.org, the one I’m most excited about.*  
