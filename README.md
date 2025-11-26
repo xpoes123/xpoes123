@@ -1,9 +1,10 @@
 ## Hi there 👋 I'm David Jiang, check out my [website](https://xpoes123.github.io/davidJ)! 
 
-I’m a Software Engineer **at Uncountable**, a YC-backed startup that builds a unified data platform for **R&D organizations** — chemists, materials scientists, formulation teams, and process engineers.  
+I’m a Software Engineer **at Uncountable**, a YC-backed startup that builds a unified data platform for **R&D organizations**, chemists, materials scientists, formulation teams, and process engineers.  
 
 I recently graduated (May 2025) from the **University of Wisconsin–Madison** with a degree in **Math and Computer Science**, after spending several years pursuing chemistry and biochemistry. 
 Some of my favorite courses were *Arithmetic Algorithms, Programming Languages, Fractal Geometry,* and *Integer Partitions*.
+
 ---
 
 ## 🔭 What I’m Currently Building
