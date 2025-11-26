@@ -5,7 +5,7 @@ I’m a Software Engineer on the **Integrations team at Uncountable**, a YC-back
 I recently graduated (May 2025) from the **University of Wisconsin–Madison** with a degree in **Math and Computer Science**, after spending several years pursuing chemistry and biochemistry. 
 
 Some of my favorite courses were *Arithmetic Algorithms, Programming Languages, Fractal Geometry,* and *Integer Partitions*.
-
+Check out my [website](https://xpoes123.github.io/davidJ/#)! 
 ---
 
 ## 🔭 What I’m Currently Building
