@@ -9,7 +9,7 @@ Some of my favorite courses were *Arithmetic Algorithms, Programming Languages, 
 
 ## 🔭 What I’m Currently Building
 
-### 🧪 **SciBowl.org — A full Science Bowl training & competition platform**
+### 🧪 **[SciBowl.org](https://github.com/xpoes123/scibowl-org) — A full Science Bowl training & competition platform**
 
 A modern, web-based ecosystem designed for **students, coaches, and tournament organizers**.  
 I'm building SciBowl.org to address long-standing gaps in the Science Bowl community:
