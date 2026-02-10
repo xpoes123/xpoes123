@@ -3,21 +3,23 @@
 🔗 Website: https://xpoes123.github.io/davidJ  
 🐙 GitHub: https://github.com/xpoes123  
 
-I’m a **Forward Deployed Engineer at Ramp**, working primarily on making companies spend less money. Previously, I was at **Uncountable**, a YC-backed startup building a unified data platform for R&D, materials science, and chemistry teams.
+I’m a **Forward Deployed Engineer at Ramp**, working close to customers to design, build, and ship solutions that integrate Ramp’s platform into real-world workflows. My work sits at the intersection of **backend engineering, data modeling, and customer-driven problem solving**.
 
-I graduated in **May 2025** from the **University of Wisconsin–Madison** with a degree in **Math and Computer Science**, after initially studying chemistry and biochemistry. I tend to enjoy work that sits between theory and systems.
+Previously, I was at **Uncountable**, a YC-backed startup building a data platform for R&D and materials science teams.
+
+I graduated in **May 2025** from the **University of Wisconsin–Madison** with a degree in **Math and Computer Science**, after initially studying chemistry and biochemistry.
 
 ---
 
-## What I’m Working On
+## What I Do at Ramp (FDE)
 
-### 🚀 Ramp
-- Backend engineering in **Python** and **SQL**
-- Data modeling and query-heavy workflows (**PostgreSQL, SQLAlchemy**)
-- Internal tooling, automation, and developer-facing systems
-- Containerized dev workflows (**Docker**)
+- Build **custom integrations and workflows** using Python and SQL  
+- Work directly with customer data models and edge cases  
+- Design backend logic that balances **correctness, speed, and maintainability**  
+- Write production code that ships quickly and survives real usage  
+- Collaborate across product, infra, and customer-facing teams  
 
-I’m especially interested in building systems that reduce operational and cognitive overhead.
+**Tech I use often:** Python, SQL, PostgreSQL, SQLAlchemy, Docker
 
 ---
 
@@ -26,14 +28,14 @@ I’m especially interested in building systems that reduce operational and cogn
 ### 🧪 SciBowl.org (NSB Arena)
 A long-running side project for the National Science Bowl community.
 
-- React + TypeScript frontend
-- Django + PostgreSQL backend
-- Focus on schema design, validation, and analytics
+- React + TypeScript
+- Django + PostgreSQL
+- Strong focus on schema design and data validation
 
 ---
 
 ## Interests
-Backend systems, data modeling, SQL performance, developer tooling, applied math, chess, poker, Rubik’s cubes, sports analytics, GeoGuessr.
+Backend systems, data modeling, developer tooling, applied math, chess, poker, Rubik’s cubes, sports analytics, GeoGuessr.
 
 ---
 
