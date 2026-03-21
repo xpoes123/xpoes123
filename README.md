@@ -14,7 +14,7 @@ BS in Computer Science, Mathematics, and Biochemistry from **UW–Madison** (202
 
 ## Projects
 
-**[SciBowl.org](https://scibowl.org)** — Platform for the National Science Bowl community (React/TypeScript, Django/PostgreSQL). Used by teams at Stanford, Johns Hopkins, UCLA, and others. Includes tournament discovery, packet management, moderator tooling, and player analytics. ~50 daily active users.
+**[SciBowl.live](https://scibowl.live)** — Platform for the National Science Bowl community (React/TypeScript, Django/PostgreSQL). Used by teams at Stanford, Johns Hopkins, UCLA, and others. Includes tournament discovery, packet management, moderator tooling, and player analytics. ~50 daily active users.
 
 **Sports Quant Lab** — Quantitative sports betting research. Building models for NBA win probability using score differential modeled as Brownian motion with drift, benchmarked against live prediction market prices (Kalshi, Polymarket). Python, SQLite, WebSocket APIs.
 
