@@ -1,39 +1,29 @@
-## Hi 👋 I’m David Jiang
+# David Jiang
 
-🔗 Website: https://xpoes123.github.io/davidJ  
-🐙 LinkedIn: https://www.linkedin.com/in/xpoes/
+**Forward Deployed Engineer @ [Ramp](https://ramp.com)** · New York, NY
 
-I’m a **Forward Deployed Engineer at Ramp**, working close to customers to design, build, and ship solutions that integrate Ramp’s platform into real-world workflows. I love talking to customers and I love the startup space.
+[Website](https://xpoes123.github.io/davidJ) · [LinkedIn](https://www.linkedin.com/in/xpoes/) · [GitHub](https://github.com/xpoes123) · Discord: xpoes
 
-Previously, I was at **Uncountable**, a YC-backed startup building a data platform for R&D and materials science teams.
+---
 
-I graduated in **May 2025** from the **University of Wisconsin–Madison** with a degree in **Math and Computer Science**, after initially studying chemistry and biochemistry.
+Previously an Implementation Engineer at **Uncountable** (YC W19), where I built ingestion pipelines, custom parsers, and internal tooling for materials science clients.
+
+BS in Computer Science, Mathematics, and Biochemistry from **UW–Madison** (2025). While there I audited a graduate combinatorics course and co-authored two preprints.
 
 ---
 
 ## Projects
 
-### 🧪 SciBowl.org (NSB Arena)
-A long-running side project for the National Science Bowl community.
+**[SciBowl.org](https://scibowl.org)** — Platform for the National Science Bowl community (React/TypeScript, Django/PostgreSQL). Used by teams at Stanford, Johns Hopkins, UCLA, and others. Includes tournament discovery, packet management, moderator tooling, and player analytics. ~50 daily active users.
 
-- React + TypeScript
-- Django + PostgreSQL
-- Strong focus on schema design and data validation
+**Sports Quant Lab** — Quantitative sports betting research. Building models for NBA win probability using score differential modeled as Brownian motion with drift, benchmarked against live prediction market prices (Kalshi, Polymarket). Python, SQLite, WebSocket APIs.
 
-### 🧊 wca-block-stats
-A visual query builder for World Cube Association competition data.
+**NBA Pick'ems** — Prediction game with leaderboard for friends (Django + React).
 
-- Python + SQLAlchemy + Flask
-- Translates block-style query specs into performant SQL (GNPG, window functions)
-- Goal: let users explore cubing stats without writing SQL
+**wca-block-stats** — Visual query builder for World Cube Association data. Translates block-style specs into SQL with window functions and GNPG queries (Python, SQLAlchemy, Flask).
 
 ---
 
 ## Interests
-Backend systems, data modeling, developer tooling, applied math, chess, poker, Rubik’s cubes, sports analytics, GeoGuessr.
 
----
-
-## Reach Me
-GitHub: @xpoes123  
-Discord: xpoes
+Applied math, sports analytics, prediction markets, data modeling, backend systems, developer tooling, chess, poker, Rubik's cubes, GeoGuessr.
