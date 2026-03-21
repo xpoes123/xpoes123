@@ -8,7 +8,7 @@
 
 Previously an Implementation Engineer at **Uncountable** (YC W19), where I built ingestion pipelines, custom parsers, and internal tooling for materials science clients.
 
-BS in Computer Science, Mathematics, and Biochemistry from **UW–Madison** (2025). While there I audited a graduate combinatorics course and co-authored two preprints.
+BS in Computer Science, Mathematics, and Biochemistry from **UW–Madison** (2025). While there I co-authored two preprints.
 
 ---
 
